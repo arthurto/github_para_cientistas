@@ -11,7 +11,7 @@ pela comunidade desenvolvedora de software.
 
 Este reposiório está organizado da seguinte maneira:
 
-- [README.md](README.md): arquivo inicial.
+- [01 - Comandos e Sintaxe](comandos.md)
 
 ## O que é o Git 
 
