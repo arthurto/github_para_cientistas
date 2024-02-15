@@ -12,6 +12,7 @@ pela comunidade desenvolvedora de software.
 Este reposiório está organizado da seguinte maneira:
 
 - [01 - Comandos e Sintaxe](comandos.md)
+- [02 - Protocolo SSH](ssh_keys.md)
 
 ## O que é o Git 
 
