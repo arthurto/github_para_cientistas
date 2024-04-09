@@ -6,8 +6,14 @@ Este repositório tem como objetivo introduzir os conceitos iniciais para a util
  assíncrona e distribuída.
 
 As ferramentas utilizadas serão especificamente o Git e o GitHub, ferramentas extensamente utilizada 
-pela comunidade desenvolvedora de software. O Git e o GitHub são a peça fundamental no funcionamento de 
-muitos projetos particulares e públicos de software.
+pela comunidade desenvolvedora de software. O Git e o GitHub são a peças fundamentais no funcionamento de 
+muitos projetos particulares e públicos de software. Ele foi desenvolvido por Linus Torvalds, e o seu desenvolvimento foi auxiliado por ele próprio. O git foi feito com ajuda do git. 
+
+## Conceitos fundamentais 
+
+O git mantém os arquivos de uma pasta, ou repositório raiz, em `branches` ou ramificações. A branch principal é comummente chamada de `main`. Para começar a fazer o `tracking` das mudanças de um reposiótio é necessário utilizar o comando `git init` no repositório pelo terminal. Para adicionar os arquivos atuais no ramo principal precisamos utilizar os comandos `git add .` e em seguida `git commit -m "mensagem relevante (ou primeiro commit, nesse caso)"`, a mensagem pode ser qualquer.
+
+Dessa forma podemos começar a colocar diferentes arquivos, a cada commit as alterações novas são salvas e podem ser revertidas.
 
 # Organização do Repositório 
 
